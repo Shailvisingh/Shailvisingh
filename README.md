@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m love with the coding
 - 📫 How to reach me- https://www.linkedin.com/in/shailvi-singh
-- 😄 Pronouns:she/hers
+- 😄 Pronouns: she/hers
   
 
 
